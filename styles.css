@@ -1,0 +1,41 @@
+body{
+    background-color: blueviolet;
+}
+.form{
+    top: 50%;
+    left:50%;
+    transform: translate3d(-50%,-50%,0);
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    width: 100vh;
+    height: 60vh;
+    background-color: black;
+    border-radius: 1rem;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+.form-group{
+    margin:1.625rem;
+}
+#result{
+    display: none;
+    top: 50%;
+    left:50%;
+    transform: translate3d(-50%,-50%,0);
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    width: 100vh;
+    height: 60vh;
+    background-color: black;
+    border-radius: 1rem;
+}
+.imagee{
+    justify-items: center;
+}
